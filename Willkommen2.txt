@@ -1,3 +1,0 @@
-Willkommen 1 ist weg im Branch.
-
-Jetzt neu im master.
