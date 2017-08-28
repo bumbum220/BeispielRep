@@ -3,3 +3,5 @@ Willkommen bei GIT!
 Ein neuer Test in 2017!
 
 Pictorius
+
+Eine Änderung vom Stick.
