@@ -1,6 +1,6 @@
 Dies ist eine Beispiel-Textdatei. Bitte bearbeiten.
 <<<<<<< HEAD
-hellel Wheelie machen ist gell schnell .
+Lasses Wheelies sidn die Geilsten .
 Scrappeeee it baby.
 =======
 
