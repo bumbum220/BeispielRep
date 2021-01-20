@@ -1,9 +1,1 @@
-Willkommen bei GIT!
-
-Ein neuer Test in 2017!
-
-Pictorius
-
-Eine Änderung vom Stick.
-
-Änderung im Unterricht.
+Dies ist eine Beispiel-Textdatei. Bitte bearbeiten.
